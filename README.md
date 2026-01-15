@@ -1,4 +1,4 @@
-#Reinforcement Learning — Breakout Agent
+# Reinforcement Learning — Breakout Agent
 
 This project implements DQN and Double DQN agents trained to play Atari Breakout using PyTorch and Gymnasium.
 
